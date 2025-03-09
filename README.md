@@ -50,7 +50,7 @@ In your PR, please explain why you need NS records, including examples, to help 
 
 ## Report Abuse
 If you find any subdomains being used for abusive purposes, please report them by [creating an issue](https://github.com/is-a-dev/register/issues/new?assignees=&labels=report-abuse&projects=&template=report-abuse.md&title=Report+abuse) with the relevant evidence.
-
+link : https://docs.is-a.dev/?fbclid=IwY2xjawI5y7lleHRuA2FlbQIxMAABHbDyvbEjIibpWvyiXJB7xtycWIKk3TYhdaOhoXJNhRX9tgoNoyorQT771Q_aem_4TfiP3-gRAs_q0LDVnYFkQ
 ---
 
 We are proud to announce that we are supported by Cloudflare's [Project Alexandria](https://www.cloudflare.com/lp/project-alexandria) sponsorship program. We would not be able to operate without their help! 💖
